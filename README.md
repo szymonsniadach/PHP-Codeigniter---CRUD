@@ -3,7 +3,7 @@
 Functions:
 - register, login user
 - admin panel (create / read / edit / delete user)
-- add article
+- article (create / read / edit / delete)
 - sort articles
 
 
